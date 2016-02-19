@@ -272,7 +272,7 @@
 %user% found a message in a bottle! It says, "Excelsior!"
 %user% found a message in a bottle! A screaming voice rings out, "Excelsior!"
 %user% found a message in a bottle! Inside is the exact object you were looking for. You don't remember looking for it but now you have it. Later you █████████ leaving only the bottle.
-%user% found a message in a bottle! Subject is 23.37816cm tall, with a white water resistant paper containing information and logo consistent with the ██████████████ █████████ brand. ████████ has a memnatic effect forcing it's victim, henceforth refereed to as ████████-1 to █████ uncontrollably
+%user% found a message in a bottle! Subject is 23.37816cm tall, with a white water resistant paper containing information and logo consistent with the ██████████████ █████████ brand. ████████ has a memnatic effect forcing its victim, henceforth refereed to as ████████-1 to █████ uncontrollably
 %user% found a message in a bottle! It says, "The end is nigh!"
 %user% found a message in a bottle! Upon touching the bottle you feel your body go numb. You die of electrocution
 %user% found a message in a bottle! Upon touching the bottle the air fills with static. You are then struck by lightning and die
